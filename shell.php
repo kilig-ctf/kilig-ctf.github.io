@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+highlight_file('36d.php');
 ?>
