@@ -1,3 +1,3 @@
 <?php
-echo "<?php system(whoami);?>";
+	system('ls');
 ?>
